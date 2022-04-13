@@ -1,0 +1,21 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightskyblue;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+h2{
+    background-color: blanchedalmond;
+}
+
+li{
+    background-color: blanchedalmond;
+    columns: 3;
+    float: right;
+}

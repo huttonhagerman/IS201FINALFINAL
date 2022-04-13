@@ -1,0 +1,27 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: blanchedalmond;
+}
+
+h2{
+    color: lightskyblue;
+    text-align: center;
+}
+
+body{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+li{
+    text-align: left;
+}
+
+ul{
+    text-align: left;
+    color: black;
+    font-size: medium
+}
